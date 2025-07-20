@@ -78,7 +78,7 @@ const Navigation = () => {
             <img 
               src="/lovable-uploads/308484dd-1a34-41ae-9cca-4a601bf3d89b.png" 
               alt="Umrah Asan Logo" 
-              className="w-12 h-12 object-contain"
+              className="w-18 h-16 object-contain"
             />
             <span className="text-lg font-bold text-primary whitespace-nowrap">Umrah Asan</span>
           </Link>
